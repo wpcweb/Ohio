@@ -1,0 +1,220 @@
+body{
+    background-image: url(ohio_flag.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+
+}
+
+
+
+.kozepre{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.85);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px;
+    max-width: 1100px;
+    width: auto;
+}
+
+
+ul{
+    display: block;
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkred;
+    width: 22.24%;
+    position: sticky;
+    top: 0;
+}
+  
+li{
+    float: left;
+}
+  
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover:not(.active){
+    background-color: gray;
+}
+  
+.active{
+    background-color: blue;
+}
+
+.kepbalra{
+    float: left;
+
+}
+
+#mrohio{
+    margin-left: -5px;
+
+}
+
+#ohioman{
+    margin-top: -7px;
+}
+
+.kepjobbra{
+    float: right;
+}
+
+#Ohio{
+    font-size: 100px;
+    margin-top: -44px;
+    margin-bottom: -30px;
+}
+
+.szovegjobbra1{
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 190.6px;
+    max-width: 800px;
+    width: auto;
+}
+.szovegbalra1{
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 190.7px;
+    max-width: 800px;
+    width: auto;
+}
+
+#kepkozepre{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 40px;
+    max-width: 1400px;
+    width: auto;
+}
+
+p{
+    font-size: 20px;
+}
+
+#finalboss{
+    margin-right: 7px;
+    width: 492.8px;
+}
+
+#mimemamomu{
+    width: 456px;
+}
+
+#mrfeast{
+    width: 606.3px;
+}
+
+#bluetooth{
+    width: 520px;
+}
+
+#sanspetergriffin{
+    width: 548px;
+}
+
+#speed{
+    width: 433px;
+}
+
+#rightneow{
+    width: 544px;
+}
+
+#himnusz{
+    font-size: 50px;
+    margin-top: -20px;
+}
+
+#lakosok{
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgba(255, 255, 255, 0.95);
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    padding: 19.7px;
+    max-width: 300px;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.himnuszmargo{
+    margin-top: 100px;
+}
+
+#kattincs{
+    padding-top: 20px;
+    margin-bottom: -17px;
+}
+
+
+.tablakepmeret{
+    width: 459.2px;
+    height: 600px;
+}
+
+
+.videok{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.85);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px;
+    max-width: 1100px;
+
+}
+
+#video1{
+    width: 50px;
+}
+
+.alsomargo{
+    margin-bottom: 50px;
+}
+
+#semmi{
+    text-decoration: none;
+    border: none;
+}
+
+.kiemeles{
+    border: 10px solid black;
+    border-collapse: collapse;
+    padding: -15px;
+    margin-left: -3px;
+    margin-bottom: -6px;
+}
+
+.balrol{
+    margin-bottom: -50px;
+    padding-left: 14px;
+}
